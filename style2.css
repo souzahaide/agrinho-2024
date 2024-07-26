@@ -1,0 +1,52 @@
+body
+
+
+h1 {
+    text-align: center; font-size: 50px;
+  color: rgb(0, 0, 0);
+
+}
+
+h2 {
+    text-align: center;
+    text-align: center; font-size: 25px;
+    color: rgb(0, 0, 0);
+    
+}
+
+h3 {
+    text-align: center;
+    text-align: center; font-size: 40px;
+    color: rgb(0, 0, 0);
+}
+
+p {
+   text-align: center;
+   font-size: 20px;
+}
+
+#missão {
+    font-size: 40px;
+    
+}
+
+em strong {
+    color: rgb(13, 13, 13);
+}
+
+h4 {
+    text-align: center; font-size: 40px;
+}
+
+h5{
+    text-align: center; font-size: 40px;
+
+}
+
+.itens {
+font-style: italic;
+
+}
+body{
+    background-color: bisque;
+}
